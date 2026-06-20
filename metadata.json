@@ -1,0 +1,6 @@
+{
+  "name": "Recursive Structure Simulator",
+  "description": "러시아 인형(마트료시카)과 방 청소 비유를 통해 재귀 함수의 기본 단계(종료 조건)와 재귀 단계의 원리를 재미있게 시각적으로 학습하는 인터랙티브 교육용 웹 시뮬레이터입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
